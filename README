@@ -1,0 +1,17 @@
+Abhishek Lolage
+SPOS Memory Management Algorithms
+
+For compiling code:
+> gcc main.c list.c -o memExec
+For running executable:
+> ./memExec
+
+Screenshots are in Terminal Output folder
+
+Example Input:
+
+Number of pages:                                        20
+Page sequence:                                          7 0 1 2 0 3 0 4 2 3 0 3 2 1 2 0 1 7 0 1
+Size of one frame:                                      3
+For second chance enhanced, number of dirty bits        8
+Indexes of dirty bits                                   2 4 6 8 10 12 14 16
